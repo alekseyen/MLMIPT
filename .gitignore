@@ -1,2 +1,5 @@
 # Project exclude paths
 /venv/
+/homeworks/Lab3_DL/UCI HAR Dataset/
+/homeworks/Lab3_DL/data/
+/homeworks/Lab3_DL/.ipynb_checkpoints/
